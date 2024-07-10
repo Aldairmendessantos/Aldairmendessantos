@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Aldairmendessantos/Aldairmendessantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome Aldair Mendes
 
-Here are some ideas to get you started:
+-Estou estudando alura
+-Estou me desenvolvendo na linguagem javascript
+-utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçe pode entrar em contato comigo 📧
+
+aldairmendes82@yahoo.com.br
+
+
+
+
+
+
